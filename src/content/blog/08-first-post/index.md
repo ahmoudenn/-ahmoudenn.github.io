@@ -1,6 +1,6 @@
 ---
 title: "PicoCTF: First Post"
-summary: "PicoCTF shit i did"
+summary: "PicoCTF stuff i did"
 date: "Nov 23 2024"
 draft: false
 tags:
@@ -11,4 +11,4 @@ tags:
 
 Hey this is my write up of the PicoCTF 2024. Enjoy!
 
-![picoctf](/src/content/blog/08-first-post/assets/picoctf.png)
+![picoctf](./assets/picoctf.png)
